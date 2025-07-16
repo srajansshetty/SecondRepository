@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\admin\Desktop\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>06/23/2025 10:46:52</publishTime>
+    </File>
+    <File Include="Admitt.aspx">
+      <publishTime>03/06/2025 15:22:44</publishTime>
+    </File>
+    <File Include="Barcode.png">
+      <publishTime>03/06/2025 15:09:46</publishTime>
+    </File>
+    <File Include="barcode1.png">
+      <publishTime>03/06/2025 15:14:18</publishTime>
+    </File>
+    <File Include="bin/MASTER1.dll">
+      <publishTime>06/23/2025 16:51:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 14:36:24</publishTime>
+    </File>
+    <File Include="bin/MSCaptcha.dll">
+      <publishTime>06/18/2025 17:02:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/19/2015 08:49:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="Contact.aspx">
+      <publishTime>06/19/2025 16:53:50</publishTime>
+    </File>
+    <File Include="edu1.png">
+      <publishTime>06/19/2025 14:24:18</publishTime>
+    </File>
+    <File Include="edu2.png">
+      <publishTime>06/19/2025 14:24:18</publishTime>
+    </File>
+    <File Include="exam.png">
+      <publishTime>02/27/2025 11:50:22</publishTime>
+    </File>
+    <File Include="Examination.aspx">
+      <publishTime>06/23/2025 11:35:34</publishTime>
+    </File>
+    <File Include="Forgot pass.aspx">
+      <publishTime>02/26/2025 14:44:52</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>06/23/2025 09:44:41</publishTime>
+    </File>
+    <File Include="HtmlPage1.html">
+      <publishTime>02/27/2025 11:43:07</publishTime>
+    </File>
+    <File Include="im1.png">
+      <publishTime>03/10/2025 10:25:44</publishTime>
+    </File>
+    <File Include="im2.png">
+      <publishTime>03/10/2025 10:31:44</publishTime>
+    </File>
+    <File Include="im3.png">
+      <publishTime>03/10/2025 10:37:21</publishTime>
+    </File>
+    <File Include="instruct.aspx">
+      <publishTime>06/19/2025 15:58:08</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>06/20/2025 00:16:05</publishTime>
+    </File>
+    <File Include="nat.jpg">
+      <publishTime>12/19/2024 11:50:48</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>12/17/2024 15:35:44</publishTime>
+    </File>
+    <File Include="Register.aspx">
+      <publishTime>06/23/2025 15:41:56</publishTime>
+    </File>
+    <File Include="Register2.aspx">
+      <publishTime>06/23/2025 10:44:28</publishTime>
+    </File>
+    <File Include="Register3.aspx">
+      <publishTime>06/23/2025 16:48:37</publishTime>
+    </File>
+    <File Include="Site1.Master">
+      <publishTime>06/23/2025 15:16:28</publishTime>
+    </File>
+    <File Include="Style.css">
+      <publishTime>02/26/2025 14:43:42</publishTime>
+    </File>
+    <File Include="verify.aspx">
+      <publishTime>03/10/2025 15:47:22</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/23/2025 15:19:53</publishTime>
+    </File>
+    <File Include="WebForm2.aspx">
+      <publishTime>02/27/2025 11:44:09</publishTime>
+    </File>
+    <File Include="Website.css">
+      <publishTime>01/21/2025 17:47:59</publishTime>
+    </File>
+    <File Include="Work.aspx">
+      <publishTime>06/19/2025 16:41:56</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
